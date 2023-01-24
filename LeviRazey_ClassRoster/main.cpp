@@ -7,12 +7,6 @@
 using namespace std;
 
 int main() {
-	// COURSE TITLE, PROGRAMMING LANGUAGE, WGU STUDENT ID, NAME
-	cout << "Scripting and Programming - Applications - C867" << endl;
-	cout << "Language: C++" << endl;
-	cout << "Student ID: #*********" << endl;
-	cout << "Name: Levi Razey" << endl;
-	cout << endl;
 
 	// STUDENT DATA TABLE
 	const string studentData[] = {"A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY",
